@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sigoloh&label=Profile%20views&color=0e75b6&style=flat" alt="sigoloh" /> </p>
 
-- 🔭 I’m currently working on **Open Letter**
+- 🔭 I’m currently working on **[Open Letter](https://bead-cyclone-e81.notion.site/Open-Letter-c3acbeb59ba4414fba15aff688705758)**
 
 - 🌱 I’m currently learning **Vue.js, Docker, AWS**
 
