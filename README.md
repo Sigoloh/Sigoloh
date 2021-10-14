@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Augusto Sigolo</h1>
 <h3 align="center">A Brazilian backend developer</h3>
 
+<p align="center"><a href="https://github.com/Sigoloh/Sigoloh/blob/master/README.md">English</a> | <a href="https://github.com/Sigoloh/Sigoloh/blob/master/README-ptbr.md">Português</a></p>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sigoloh&label=Profile%20views&color=0e75b6&style=flat" alt="sigoloh" /> </p>
 
 - 🔭 I’m currently working on **[Open Letter](https://bead-cyclone-e81.notion.site/Open-Letter-c3acbeb59ba4414fba15aff688705758)**
@@ -9,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Sigoloh](https://github.com/Sigoloh)
 
-- 📝 I regularly(-ish) write articles on [https://medium.com/@augustoasigolo](https://medium.com/@augustoasigolo)
+- 📝 I regularly(-ish) write articles on [https://dev.to/sigoloh](https://dev.to/sigoloh)
 
 - 💬 Ask me about **Anything, if I don't know how to answer, I probably know someone who does**
 
@@ -22,6 +24,16 @@
 - ![Discord Badge](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white) For team communication
 - ![Android Badge](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white) As my mobile OS
 - ![Ubuntu Badge](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white) As my desktop OS
+  <<<<<<< HEAD
+  ![Typescript Badge](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) As the main language
+- ![Javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) For some library custumization 
+- ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) For low level frontend development
+- ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) For web styling
+  ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) For college tasks
+- ![Shell](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white) For tasks automation at OS level
+  
+  ![Express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge) As backend framework
+  =======
 - ![Typescript Badge](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) As the main language
 - ![Javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) For some library custumization 
 - ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) For low level frontend development
@@ -29,6 +41,7 @@
 - ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) For college tasks
 - ![Shell](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white) For tasks automation at OS level
 - ![Express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge) As backend framework
+>>>>>>> fb683521ce0347fbf11cba5d4012f561e3fa789c
 - ![Postgres](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) As my main relational database
 - ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)As my main non-relational database
 
