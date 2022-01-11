@@ -5,9 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sigoloh&label=Profile%20views&color=0e75b6&style=flat" alt="sigoloh" /> </p>
 
-- 🔭 Atualmente, estou trabalhando no projeto **[Open Letter](https://bead-cyclone-e81.notion.site/Open-Letter-c3acbeb59ba4414fba15aff688705758)**
+- 🔭 Atualmente, estou trabalhando no meu **[Site Pessoal](https://www.sigolo.me)**
 
-- 🌱 Atualmente, estou aprendendo **Vue.js, Docker, AWS**
+- 🌱 Atualmente, estou aprendendo **Vue.js, UX/UI, AWS**
 
 - 👨‍💻 Todos os meus projetos estão disponíveis em [https://github.com/Sigoloh](https://github.com/Sigoloh)
 
