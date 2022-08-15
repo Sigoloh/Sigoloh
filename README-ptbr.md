@@ -11,8 +11,6 @@
 
 - 👨‍💻 Todos os meus projetos estão disponíveis em [https://github.com/Sigoloh](https://github.com/Sigoloh)
 
-- 📝 Às vezes, posto nesse blog [https://dev.to/sigoloh](https://dev.to/sigoloh)
-
 - 💬 Pergunte-me sobre  **Qualquer coisa, se eu não souber responder, conheço alguém que sabe**
 
 - 📫 Enter em contato no email **augustosigolo@gmail.com**
