@@ -11,8 +11,6 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Sigoloh](https://github.com/Sigoloh)
 
-- 📝 I regularly(-ish) write articles on [https://dev.to/sigoloh](https://dev.to/sigoloh)
-
 - 💬 Ask me about **Anything, if I don't know how to answer, I probably know someone who does**
 
 - 📫 How to reach me **augustosigolo@gmail.com**
