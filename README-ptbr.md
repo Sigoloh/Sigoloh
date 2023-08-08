@@ -5,9 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sigoloh&label=Profile%20views&color=0e75b6&style=flat" alt="sigoloh" /> </p>
 
-- 🔭 Atualmente, estou trabalhando no meu **[Site Pessoal](https://www.sigolo.me)**
+- 🔭 Atualmente, estou trabalhando com **automação de gerenciamento de rede**
 
-- 🌱 Atualmente, estou aprendendo **Vue.js, UX/UI, AWS**
+- 🌱 Atualmente, estou aprendendo **infraestrutura de ISPs**
 
 - 👨‍💻 Todos os meus projetos estão disponíveis em [https://github.com/Sigoloh](https://github.com/Sigoloh)
 
