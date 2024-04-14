@@ -5,9 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sigoloh&label=Profile%20views&color=0e75b6&style=flat" alt="sigoloh" /> </p>
 
-- 🔭 I’m currently working on **network management automation**
+- 🔭 I’m currently working on **[Belchfy](https://github.com/Sigoloh/belchfy)**
 
-- 🌱 I’m currently learning **ISP infraestructure**
+- 🌱 I’m currently learning **Computational Vision**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Sigoloh](https://github.com/Sigoloh)
 
